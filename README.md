@@ -9,4 +9,7 @@
 - npm install nodemon
 - npm install cors dotenv @supabase/supabase-js
 - node server.js
+
+3. **LINK DO CANVA**
+   https://www.canva.com/design/DAG5tVTPlJg/mwNIW9zhmnUEkJUvm1JCIA/edit?utm_content=DAG5tVTPlJg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
   
